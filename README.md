@@ -5,4 +5,4 @@
 2. pagination when there's more than one page of results
 3. typeahead.js
 
-- irma
+irma / fan of OLYKOEK
