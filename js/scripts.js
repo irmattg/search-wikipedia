@@ -55,18 +55,3 @@ const form = document.querySelector(".searchForm");
 
 // listens to submit event on form element to capture search query when form is submitted
 form.addEventListener('submit', handleSubmit);
-
-
-
-
-
-
-
-
-
-
-
-
-// to add an error message "no results found"
-// to add typeahead.js
-// to add display more than one page of results
